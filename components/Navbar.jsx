@@ -11,7 +11,7 @@ const Navbar = () => (
     className={`${styles.xPaddings} py-8 px-6 relative`}
   >
    
-    <div className="absolute w-[50%] inset-0 gradiant-01"/>
+    <div className="absolute w-[50%] inset-0 "/> {/*gradiant-01*/}
     <div className={`${styles.innerWidth} sm:pl-16 pl-6 sm:pr-16 pr-6 mx-auto flex justify-between gap-9 overflow-hidden `}>
       {/* <img
         src='/logo2.png'
