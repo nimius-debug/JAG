@@ -36,7 +36,7 @@ const ExploreCard = ({ id, imgUrl, title,vecUrl,desc, index, active, handleClick
         <p className="font-normal text-[16px] leading-[20.16px] text-white uppercase">
           {title}
         </p>
-        <h2 className="mt-[18px] font-semibold sm:text-[16px] text-[14px] text-white">
+        <h2 className="mt-[18px] font-semibold sm:text-[16px] text-[12px] text-white">
           {desc}
         </h2>
       </div>
